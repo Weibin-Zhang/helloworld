@@ -1,0 +1,12 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pytorch_classification.Test7_shufflenet.zwbUtils.train_RGB_images_path" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
